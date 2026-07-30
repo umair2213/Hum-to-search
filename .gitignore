@@ -10,8 +10,7 @@ __pycache__/
 # Qdrant local database
 database/
  
-# Demucs separated audio (large, regenerable)
-separated/
+
 
 
 # OS
@@ -19,8 +18,6 @@ separated/
 Thumbs.db
 
 # Audio datasets
-separated/
-recorded_voices_test/
 *.wav
 *.mp3
 *.flac
